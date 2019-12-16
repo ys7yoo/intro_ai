@@ -1,5 +1,4 @@
-# intro_ai
-Repository for the new course intro to AI
+# Intro to AI
 
 2.3 Introduction to R 
    * For Python users, [Crash course on Python and Jupyter notebook](code_python/lab2.ipynb)
